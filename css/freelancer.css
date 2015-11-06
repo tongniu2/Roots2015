@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #9370db;
 }
 
 header .container {
@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #663399;
+    background: #9370db;
 }
 
 section.success a,
@@ -274,7 +274,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #9370db;
     background: #fff;
 }
 
@@ -344,7 +344,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #d3d3d3;
+    background-color: #9370db;
 }
 
 footer .footer-col {
@@ -353,7 +353,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #211132;
 }
 
 .btn-social {
