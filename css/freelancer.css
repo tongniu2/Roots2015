@@ -202,6 +202,10 @@ section.success a.active {
         padding-top: 75px;
     }
 }
+section.portfolio {
+    color: #26134c;
+    background: #ababab;
+}
 
 #portfolio .portfolio-item {
     right: 0;
