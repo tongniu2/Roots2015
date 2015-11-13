@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #9370db;
+    background: #3a3f98;
 }
 
 section.success a,
@@ -203,7 +203,7 @@ section.success a.active {
 }
 section.programs {
     color: #26134c;
-    background: #ababab;
+    background: #c7c9d4;
 }
 
 #programs .programs-item {
