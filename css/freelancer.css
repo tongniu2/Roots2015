@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #128f76;
+    color: #000000;
 }
 
 h1,
@@ -190,7 +190,6 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #128f76;
 }
 
 @media(max-width:767px) {
