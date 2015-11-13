@@ -369,14 +369,14 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 10px 0;
-    background-color: #211132;
+    background-color: #53589b;
 }
 
 .btn-social {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 2px solid #3a3f98;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
