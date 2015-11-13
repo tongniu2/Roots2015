@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #000000;
+    color: #3a3f98;
 }
 
 h1,
@@ -280,7 +280,7 @@ section.programs {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+    color: #3a3f98;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -290,7 +290,7 @@ section.programs {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #9370db;
+    color: #3a3f98;
     background: #fff;
 }
 
