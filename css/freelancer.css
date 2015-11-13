@@ -67,11 +67,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #45238b;
+    border-color: #3a3f98;
 }
 
 hr.star-primary:after {
-    color: #45238b;
+    color: #3a3f98;
     background-color: #fff;
 }
 
@@ -81,8 +81,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #9370db;
+    color: #3a3f98;
+    background: #c7c9d4;
 }
 
 header .container {
@@ -192,6 +192,19 @@ section.success a.active {
     outline: 0;
 }
 
+section.success2 {
+    color: #3a3f98;
+    background: #c7c9d4;
+}
+
+section.success2 a,
+section.success2 a:hover,
+section.success2 a:focus,
+section.success2 a:active,
+section.success2 a.active {
+    outline: 0;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -202,8 +215,8 @@ section.success a.active {
     }
 }
 section.programs {
-    color: #26134c;
-    background: #c7c9d4;
+    color: #c7c9d4;
+    background: #3a3f98;
 }
 
 #programs .programs-item {
@@ -347,7 +360,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 10px;
-    background-color: #9370db;
+    background-color: #c7c9d4;
 }
 
 footer .footer-col {
